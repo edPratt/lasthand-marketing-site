@@ -16,7 +16,7 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Hydra Template
+  name: Lasthand Template
   links:
     - https://github.com/CloudCannon/hydra-jekyll-template
 
@@ -30,7 +30,6 @@ collections:
     _hide_content: true
 
 paginate: 10
-paginate_path: "/blog/:num/"
 permalink: pretty
 
 defaults:
