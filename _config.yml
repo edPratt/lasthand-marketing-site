@@ -83,17 +83,6 @@ exclude:
 # -----------
 # CloudCannon
 
-_select_data:
-  social_icons:
-    - Facebook
-    - Instagram
-    - LinkedIn
-    - Pinterest
-    - Tumblr
-    - Twitter
-    - YouTube
-    - RSS
-
 _comments:
   map: Update the map location and display settings.
   latitude: Coordinates for the center marker on the map.
